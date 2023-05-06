@@ -13,7 +13,7 @@ cd docs/.vitepress/dist
 # echo 'www.example.com' > CNAME
 git init
 git add -A
-git commit -m 'deploy'
+git commit -m '部署'
 
 # 如果发布到 https://<USERNAME>.github.io
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
@@ -22,6 +22,6 @@ git commit -m 'deploy'
 # git push -f git@github.com:<USERNAME>/<REPO>.git master:gh-pages
 
 # 把上面的 <USERNAME> 换成你自己的 Github 用户名，<REPO> 换成仓库名，比如我这里就是：
-git push -f git@github.com:hu-snail/vue3-resource.git master:gh-pages
+git push -f git@github.com:StudyDayByDay/summary-think.git master:gh-pages
 
 cd -
