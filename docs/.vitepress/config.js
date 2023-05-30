@@ -9,13 +9,13 @@ module.exports = {
   description: '收集vue3资源，包含web端&移动端&小程序&Electron等栏目',
   head: createHead(),
   themeConfig: {
-    algolia: {
-      appId: 'PEWR8V41JZ',
-      apiKey: 'e785d40eb5f19238410be94fd745ca9d',
-      indexName: 'vue3-resource',
-    },
-    repo: 'hu-snail/vue3-resource',
-    docsRepo: 'hu-snail/vue3-resource',
+    // algolia: {
+    //   appId: 'PEWR8V41JZ',
+    //   apiKey: 'e785d40eb5f19238410be94fd745ca9d',
+    //   indexName: 'vue3-resource',
+    // },
+    repo: 'StudyDayByDay/summary-think',
+    docsRepo: 'StudyDayByDay/summary-think',
     docsBranch: 'main/docs',
     editLinks: true,
     logo: '/logo.png',
@@ -25,9 +25,9 @@ module.exports = {
     },
     lastUpdated: true,
     lastUpdatedText: '最后修改时间',
-    socialLinks: [{icon: 'github', link: 'https://github.com/hu-snail/vue3-resource'}],
+    socialLinks: [{icon: 'github', link: 'https://github.com/StudyDayByDay/summary-think'}],
     editLink: {
-      pattern: 'https://github.com/hu-snail/vue3-resource/edit/main/docs/:path',
+      pattern: 'https://github.com/StudyDayByDay/summary-think/edit/main/docs/:path',
       text: '为此页提供修改建议',
     },
     nav: [
