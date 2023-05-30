@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as r,O as t}from"./chunks/framework.55d1426d.js";const m=JSON.parse('{"title":"收藏","description":"","frontmatter":{},"headers":[],"relativePath":"platform/like.md","filePath":"platform/like.md"}'),o={name:"platform/like.md"},l=t("",15),s=[l];function h(i,n,p,c,d,u){return a(),r("div",null,s)}const b=e(o,[["render",h]]);export{m as __pageData,b as default};
